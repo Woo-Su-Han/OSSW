@@ -14,4 +14,4 @@ _italic_<br>
 ~~strikethrough~~
 
 * 링크 넣기
-[링크 이름](www.naver.com)
+[링크 이름] <br> (www.naver.com)
